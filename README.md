@@ -6,7 +6,7 @@
 
 ## 目录结构
 ```
-NWNU_Crawler
+Meizi_Crawler
     |- src/                 代码目录
     |- pom.xml              Maven配置文件
 ```
